@@ -7,17 +7,26 @@ https://drive.google.com/file/d/14S6ZYc3GwYvHWR8DgobN8FSCY2Wa2Xlm/view?usp=shari
 Installation steps:
 Step1: download the file which given above link
 
+
 Step2: once file downloaded right click, select/click Run as administrator and click on “YES”
+
 
  ![image](https://github.com/user-attachments/assets/9669844b-176d-4bef-b593-f8a236e4942d)
 
 
+
+
 Step3: check the Add python 3.7 to path and click install now REFER below sample screen shot
+
+
 ![image](https://github.com/user-attachments/assets/5b35c297-094e-4ea0-b29a-68da1cbe02b0)
 
  
+
 Step4: click close once setup installed
-Installation packages:
+
+
+# Installation packages:
 Step1: open CMD (command prompt) 
 Step2: below are the packages, install in CMD one after one. Copy, paste and Press enter in CMD
 	pip install --user scikit-learn==0.22.2.post1
